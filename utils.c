@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+#include "main.h"
+>>>>>>> master
 
 /**
  * is_printable - Evaluates if a char is printable
